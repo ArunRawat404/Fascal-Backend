@@ -1,8 +1,8 @@
-# Fasal Movie Application
+# Fascal Movie Application
 
 ## Description
 
-Fasal Movie Application is a web application that allows users to search for movies, create lists of their favorite movies, and manage their movie collections. Users can search for movies by title, view movie details, add movies to their lists, and manage their lists.
+Fascal Movie Application is a web application that allows users to search for movies, create lists of their favorite movies, and manage their movie collections. Users can search for movies by title, view movie details, add movies to their lists, and manage their lists.
 
 ### Live: https://arunrawat404.github.io/Fascal-frontend/
 
